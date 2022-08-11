@@ -7,6 +7,5 @@ No Telepon     : 0856-9511-3278
 Jenis Kelamin  : Laki - Laki 
 Agama          : Islam
 Pekerjaan      : Pelajar/Mahasiswa
-Hobi           : Bermain game & Badminton
-Cita - cita    : Programer & Pengusaha sukses
+Hobi           : Bermain game & Badminton, mengoding
 ============================================================
